@@ -3,6 +3,6 @@ def unirnombre():
     apellido1= raw_input ("dime tu apellido")
     apellido2= raw_input ("dime tu segundo apellido")
     e=" "
-    nombrecompleto= nombre+e+apellido1+" "+apellido2
+    nombrecompleto= nombre+e+apellido1+e+apellido2
     print nombrecompleto
 unirnombre()
