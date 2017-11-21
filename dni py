@@ -1,0 +1,5 @@
+x=input("dime algo")
+resto=x%23
+palabra="TRWAGMYFPDXBNJZSQVHLCKE"
+print palabra[resto]
+
